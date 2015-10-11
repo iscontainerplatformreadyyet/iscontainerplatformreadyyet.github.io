@@ -1,4 +1,4 @@
-# iscontainerplatformreadyyet.github.io
+# www.iscontainerplatformreadyyet.com
 
 This will be an attempt at building a website in similar style to: https://arewefastyet.com/ https://areweslimyet.com/ and https://istlsfastyet.com/
 
